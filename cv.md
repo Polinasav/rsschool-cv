@@ -4,7 +4,7 @@
   * E-mail: polzazazazaza@gmail.com
   * Discord: Polza#0606
 ## About myself:
-Curently I'm working in the restourant in Portugal. I'm Ukranian refugee. I want to work in IT-sphere as Front-End Developer. I study in RSSchool now.
+My name is Polina, currently I'm working as a freelance model. I love to learn new things and I'm passionate about new technologist. I want to change my career path and I want to dedicate all my free time leaning at this course in RSSCOOL. I’m drawn to the creative aspect of Front-End development. It gives me a chance to solve design and user interaction challenges, allowing me to merge creativity with technical skills. I enjoy finding solutions to create visually appealing, responsive websites that are easy to navigate.
 ## Code example:  
 
 ``` 
@@ -30,3 +30,4 @@ function squareDigits(num){
   * Russian C2
   * English B1
   * Czech B2
+  * Portugese A2
