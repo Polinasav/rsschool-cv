@@ -1,1 +1,1 @@
-https://Polinasav.github.io/rsschool-cv/cvg
+https://Polinasav.github.io/rsschool-cv/
